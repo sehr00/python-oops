@@ -1,2 +1,2 @@
-# 30-days-python-oops
+# 30-days-python-oop
 “Learning OOP in Python step by step.”
