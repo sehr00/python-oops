@@ -11,7 +11,11 @@ Each day introduces a new concept with explanations, Jupyter notebook examples, 
 - **Day 3:** Class vs. Instance Variables
 - **Day 4:** Inheritance
 - **Day 5:** Multiple Inheritance and `super()`
-- *(Days 6–30 coming soon!)*
+- **Day 6:** Encapsulation
+- **Day 7:** Polymorphism
+- **Day 8:** Abstraction
+- *(Days 9–30 coming soon!)*
+
 
 ---
 
