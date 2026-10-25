@@ -2,6 +2,7 @@
 Master Object-Oriented Programming in Python step by step.  
 From **classes & inheritance** to **design patterns & real projects**, this repo is your complete roadmap to becoming confident in OOP.
 
+
 ![GitHub stars](https://img.shields.io/github/stars/sehr00/python-oop?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/sehr00/python-oop?style=social)
 ![License](https://img.shields.io/github/license/sehr00/python-oop)
