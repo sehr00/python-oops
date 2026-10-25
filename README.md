@@ -7,6 +7,13 @@ From **classes & inheritance** to **design patterns & real projects**, this repo
 ![GitHub forks](https://img.shields.io/github/forks/sehr00/python-oop?style=social)
 ![License](https://img.shields.io/github/license/sehr00/python-oop)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/sehr00/python-oop)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/sehr00/python-oop)
+![GitHub issues](https://img.shields.io/github/issues/sehr00/python-oop)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/sehr00/python-oop)
+![GitHub contributors](https://img.shields.io/github/contributors/sehr00/python-oop)
+
+
 
 ---
 
